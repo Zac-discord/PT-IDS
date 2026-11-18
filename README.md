@@ -4,5 +4,6 @@ And NOW its available to you! (requires open plane available on NOMM)
 
 The Tornado can take off anywhere the revoker can and carries the same weapons but with better RCS, better speed, and alot more fuel 
 
+Installation: Download Open Plane from Nuclear Option mod Manager, OR the github page. Then download this file and copy to the plugin file in BepInx just like every other craft
 
 Version One: November 17th, 2026. Panavia Tornado IDS Release
